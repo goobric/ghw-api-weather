@@ -1,7 +1,7 @@
 import requests
 
 # Enter your API key here
-api_key = "38fb6162099d4a3110ad8961468f84fd"
+api_key = "https://api.open-meteo.com/v1/forecast?latitude=51.51&longitude=-0.13&hourly=temperature_2m"
 
 # Enter the name of the city you want to get weather data for
 city_name = "London"
